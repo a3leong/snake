@@ -8,7 +8,7 @@
  * @param XSTART    The starting horizontal position of the snake
  * @param YSTART    The starting vertical position of the snake
  * @param child     The Tail the Head piece sends instructions to
- * @param keypress  Stores last valid keypress entered by user.
+ * @param keypress  Stores last valid keypress entered by user
  * 
  * Class Head
  * Holds the data for the Head piece including Xposition and Yposition as well
